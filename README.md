@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there, I'm Abbosbek Muydinboev 👋
 
-<!--
-**Abbosbek-SE/Abbosbek-SE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## I'm a Developer, Son and Athlete!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Feel free to reach out to me for questions/feedback/collaboration on any of my projects or blog posts, as well as prospective employment opportunities!
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+
+<br />
+<br />
+
+---
+
+
+[website]: https://b-portifolio.web.app/
+[linkedin]: https://www.linkedin.com/in/abbosbek-muydinboev-7785b11b2/
+[medium]: https://medium.com/@muydinboevabbosbek
