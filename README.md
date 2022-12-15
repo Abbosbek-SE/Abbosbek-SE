@@ -1,4 +1,4 @@
-### Hi there, I'm Abbosbek Muydinboev 👋
+### Hi there, I'm Abbosbek Muydinboev 
 
 
 ## I'm a Developer, Entrepreneur and Athlete!
