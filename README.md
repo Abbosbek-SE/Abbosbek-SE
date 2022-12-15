@@ -1,7 +1,7 @@
 ### Hi there, I'm Abbosbek Muydinboev 👋
 
 
-## I'm a Developer, Son and Athlete!
+## I'm a Developer, Entrepreneur and Athlete!
 
 - Feel free to reach out to me for questions/feedback/collaboration on any of my projects or blog posts, as well as prospective employment opportunities!
 
@@ -9,7 +9,7 @@
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+
 
 <br />
 <br />
