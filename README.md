@@ -4,7 +4,7 @@
 ## Full Stack Software Engineer
 
 - Startup Development
-- Web3
+- Web2/Web3
 - AI
 
 
