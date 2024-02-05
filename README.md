@@ -16,7 +16,5 @@
 
 ---
 
-
-[website]: https://b-portifolio.web.app/
 [linkedin]: https://www.linkedin.com/in/abbosbek-muydinboev-7785b11b2/
-[medium]: https://medium.com/@muydinboevabbosbek
+
