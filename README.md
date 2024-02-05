@@ -1,7 +1,7 @@
-### Hi there, I'm Abbosbek Muydinboev 
+### Abbosbek Muydinboev 
 
 
-## I'm a Developer, Entrepreneur and Athlete!
+## Full Stack Software Engineer
 
 - Feel free to reach out to me for questions/feedback/collaboration on any of my projects or blog posts, as well as prospective employment opportunities!
 
