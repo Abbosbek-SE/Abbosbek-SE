@@ -14,7 +14,6 @@
 <br />
 <br />
 
----
 
 [linkedin]: https://www.linkedin.com/in/abbosbek-muydinboev-7785b11b2/
 
